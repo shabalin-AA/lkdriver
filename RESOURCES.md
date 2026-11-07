@@ -1,0 +1,1 @@
+- https://www.opennet.ru/soft/kernel_module_guide.pdf
