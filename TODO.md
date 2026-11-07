@@ -1,0 +1,3 @@
+- make led control driver
+- build whole kernel with custom driver
+- make temperature sensor driver
